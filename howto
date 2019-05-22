@@ -1,0 +1,4 @@
+# Alterar o /etc/hosts , adicionando o endereço: app.meus.br
+# Colocar este arquivo no diretório /etc/apache2/sites-available
+# Ativar esta configuração com o comando: sudo a2ensite app.meus.br
+# Reiniciar o Apache: sudo apache2ctl restart
